@@ -6,10 +6,16 @@ This project focuses on creating a real-time competitive intelligence tool for e
 Machine Learning: Predictive modeling with ARIMA.
 LLMs: Sentiment analysis using Hugging Face Transformer and Groq.
 Integration: Slack notifications for real-time updates.
+
 ## Features
-Competitor Data Aggregation: Track pricing and discount strategies.
-Sentiment Analysis: Analyze customer reviews for actionable insights.
-Predictive Modeling: Forecast competitor discounts.
-Slack Integration: Get real-time notifications on competitor activity.
+1.Competitor Data Aggregation: Track pricing and discount strategies.
+2.Sentiment Analysis: Analyze customer reviews for actionable insights.
+3.Predictive Modeling: Forecast competitor discounts.
+4.Slack Integration: Get real-time notifications on competitor activity.
+
+## Setup Instructions
+1. Clone the Repository
+   git clone <repository-url>
+   cd <repository-directory>
 
 
