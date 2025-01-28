@@ -15,6 +15,9 @@ Integration: Slack notifications for real-time updates.
 
 ## Setup Instructions
 1. Clone the Repository
+ '''bash
+git clone <repository-url>
+cd <repository-directory>
    
 
 
