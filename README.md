@@ -14,10 +14,12 @@ Integration: Slack notifications for real-time updates.
 4.Slack Integration: Get real-time notifications on competitor activity.
 
 ## Setup Instructions
-1. Clone the Repository
- '''bash
+# Clone the Repository
+
+```bash
 git clone <repository-url>
 cd <repository-directory>
+
    
 
 
